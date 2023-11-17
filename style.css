@@ -10,14 +10,14 @@ body {
 h1 {
    color: azure;
    background-color: blueviolet;
-   font-size: 32px;
+   font-size: 40px;
 
 }
 
 header {
     color: darkkhaki;
     background-color: blueviolet;
-    font-size : 32px;
+    font-size : 35px;
     text-align: center;
     padding: 50px;
 }
@@ -34,10 +34,10 @@ h2 {
 }
 
 .gauche {
-    width: 30%;
+    width: 38%;
 }
 .gauche {
-    padding: 2%;
+    padding: 3%;
 }
 .gauche {
     margin: 3%;
@@ -56,6 +56,18 @@ main {
     justify-content: space-between;
 }
 h3 {
-    droite;
     padding: 5%;
+}
+p {
+    padding: 1%;
+}
+div {
+    padding: 5%;
+}
+p {
+    padding: 3%;
+}
+
+.paragraphe {
+    margin: 8%
 }
