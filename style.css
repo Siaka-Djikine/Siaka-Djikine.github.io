@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+   color: azure;
+   background-color: blueviolet;
+   font-size: 32px;
+
+}
+
+header {
+    color: darkkhaki;
+    background-color: blueviolet;
+    font-size : 32px;
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    color: rgb(115, 189, 107);
+    background-color: blueviolet;
+    font-size: 22px;
+}
+
+.fond-azur {
+    color: black;
+    background: azure;
+}
+
+.gauche {
+    width: 30%;
+}
+.gauche {
+    padding: 2%;
+}
+.gauche {
+    margin: 3%;
+}
+
+.droite {
+    width: 66%
+}
+.droite {
+    margin: 4%; 
+}
+
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    droite;
+    padding: 5%;
+}
